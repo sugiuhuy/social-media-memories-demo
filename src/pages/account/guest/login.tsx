@@ -13,7 +13,7 @@ const PageLogin: Component = () => {
   const mutate = mutateStore();
 
   const [errorMessage, setErrorMessage] = createStore<{ onInput: string; message: string }>({ onInput: "", message: "" });
-  const [value, setValue] = createStore<{ email: string; password: string }>({ email: "", password: "" });
+  const [value, setValue] = createStore<{ email: string; password: string }>({ email: "user@email.com", password: "password" });
 
   const inputs: { name: "email" | "password"; type: "text" | "password"; placeholder: string }[] = [
     { name: "email", type: "text", placeholder: "Email" },
