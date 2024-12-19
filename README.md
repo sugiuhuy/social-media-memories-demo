@@ -26,3 +26,14 @@ Your app is ready to be deployed!
 ## Deployment
 
 Learn more about deploying your application with the [documentations](https://vitejs.dev/guide/static-deploy.html)
+
+## Full Source Code
+https://ko-fi.com/s/5d0085291f
+include `api server`, `admin-panel`, `ads-manager` and `client`
+
+## Live Demo
+`netlify` https://memories-social-media-app-demo.netlify.app/
+`vercel` https://social-media-memories-demo.vercel.app/
+
+# Donate
+https://ko-fi.com/uhuyparty
