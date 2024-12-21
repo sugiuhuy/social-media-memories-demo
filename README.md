@@ -34,6 +34,6 @@ include `api server`, `admin-panel`, `ads-manager` and `client`
 ## Live Demo
 `netlify` https://memories-social-media-app-demo.netlify.app/
 `vercel` https://social-media-memories-demo.vercel.app/
- - to login use:
- - `email = user@email.com`
- - `password = password`
+to login use:
+ - email `user@email.com`
+ - password `password`
